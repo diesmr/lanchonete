@@ -3,7 +3,7 @@ import pandas as pd
 import psycopg2
 
 # URL de conexão direta com o Supabase (Porta 5432)
-DB_URL = "postgresql://postgres:senhalachonete@db.seu-id-do-projeto.supabase.co:5432/postgres"
+DB_URL = "postgresql://postgres.djhuawnkygdvlmzrvija:senhalanchonete@aws-0-sa-east-1.pooler.supabase.com:5432/postgres"
 
 st.title("🍔 Lanchonete Universitária")
 st.write("Painel de Visualização - Integrado com Supabase.")
